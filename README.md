@@ -1,3 +1,26 @@
-# Snake-Game
+# 🐍 Snake-Game
 
-The Snake game is a classic action video game where the player controls a growing line, resembling a snake, on a grid. The primary goal is to navigate the snake to consume food, which causes it to grow longer. The game ends if the snake collides with the edge of the grid or its own body. 
+The Snake game is a classic arcade-style game where the player controls a growing line (the "snake") on a grid. The objective is to eat food and grow longer without crashing into the walls or the snake’s own body.
+
+##  Features
+
+- Smooth snake movement and responsive controls  
+- Auto-growing snake on food consumption  
+- Game over detection on self or wall collision  
+- Score tracking  
+- Minimalist pixel-style design  
+
+##  Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+
+##  How to Play
+
+1. Use arrow keys (↑ ↓ ← →) to control the snake’s direction.
+2. Eat the food to grow longer and increase your score.
+3. Avoid colliding with walls or your own body — or it’s game over!
+4. Try to get the highest score possible.
+
+Enjoy playing this retro classic in your browser!
